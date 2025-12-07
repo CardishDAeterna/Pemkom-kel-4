@@ -1,9 +1,7 @@
-git add requirements.txt 
-# Atau, untuk menambahkan semua perubahan di folder saat ini:
-git add .
+
 import streamlit as st
 import numpy as np
-
+import scipy
 import pandas as pd
 import base64
 
