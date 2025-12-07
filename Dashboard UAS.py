@@ -1,4 +1,4 @@
-
+pip install scipy
 import streamlit as st
 import numpy as np
 from scipy import stats
