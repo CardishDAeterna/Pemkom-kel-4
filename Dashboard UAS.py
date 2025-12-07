@@ -1,8 +1,7 @@
 
 import streamlit as st
 import numpy as np
-from scipy import stats
-from scipy.stats import norm
+
 import pandas as pd
 import base64
 
